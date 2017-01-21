@@ -9,4 +9,4 @@ Programs runs through various sorting algorithms and tests their execution times
 
 Bucket sort is also explained, but not computationally tested with a data set. 
 
-Attached is an analysis of the efficiencies of tested sorting algorithms. 
+Attached is an analysis of the efficiencies of tested sorting algorithms, the raw data and test results.
